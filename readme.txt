@@ -1,0 +1,1 @@
+python nitro_checker.py --file codes.txt -c 10
